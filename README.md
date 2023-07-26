@@ -17,3 +17,9 @@ we will jump into the another class today
 
 we have to create scripts now and 
 later we will create servers. Also we have to create a domain server.
+
+
+hello all
+
+functions it is 
+
